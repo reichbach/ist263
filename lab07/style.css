@@ -1,0 +1,35 @@
+/* Set up base styles */
+body {
+    background-color: #f4f4f4; /* Light gray */
+    color: #333; /* Dark gray text */
+    font-family: Arial, sans-serif;
+}
+
+/* Navigation Styles */
+nav {
+    background-color: #222; /* Dark navigation background */
+    padding: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+nav a {
+    color: #fff; /* White navigation links */
+    text-decoration: none;
+    padding: 10px 15px;
+}
+
+nav a:hover {
+    background-color: #ffcc00; /* Yellow highlight when hovered */
+    color: #222;
+}
+
+/* Headings */
+h1 {
+    color: #0056b3; /* Blue heading */
+}
+
+/* Page Layout */
+main {
+    padding: 20px;
+}
